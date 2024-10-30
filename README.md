@@ -21,4 +21,5 @@ WebStorm: Another great IDE for JavaScript and React development.
 
 Required Dependancies:
 transformers bitsandbytes accelerate torch 
+
 **Note the Pre-Trained Llama3 Model requires atlest 60 gigabytes of empyty storage.**
