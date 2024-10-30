@@ -2,7 +2,7 @@
 MediSphere is an AI-enabled health companion aimed at addressing the challenges of healthcare accessibility, especially in underdeveloped regions and for individuals with limited access to regular medical consultations. With millions of people globally struggling to manage their daily health routines, such as vital monitoring, prescription management, and mental well-being, there is an urgent need for a solution that integrates various aspects of healthcare into one seamless platform.
 
 The objective of this project is to develop MediSphere, a comprehensive AI-driven solution that caters to six essential healthcare needs:
-___________________________________
+
 1. Routine vitals checkup.
 2. Seamless management of medical records and history.
 3. Automated medication reminders and updates with real-time stock availability.
